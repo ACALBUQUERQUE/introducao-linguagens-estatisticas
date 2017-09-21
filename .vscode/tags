@@ -4,3 +4,64 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+A	../python/aula_01/estruturas_dados.py	/^A = {1,2,3}$/;"	kind:variable	line:319
+B	../python/aula_01/estruturas_dados.py	/^B = {3,4,5,6}$/;"	kind:variable	line:320
+F1	../python/aula_01/controle_fluxo.py	/^    F1 = F2$/;"	kind:variable	line:203
+F1	../python/aula_01/controle_fluxo.py	/^F1 = 0$/;"	kind:variable	line:199
+F2	../python/aula_01/controle_fluxo.py	/^    F2 = temp$/;"	kind:variable	line:204
+F2	../python/aula_01/controle_fluxo.py	/^F2 = 1$/;"	kind:variable	line:200
+a	../python/aula_01/controle_fluxo.py	/^a = 1$/;"	kind:variable	line:84
+a	../python/aula_01/introducao.py	/^a = (9 + 8 + 7 +$/;"	kind:variable	line:58
+a	../python/aula_01/introducao.py	/^a = 10$/;"	kind:variable	line:132
+a	../python/aula_01/introducao.py	/^a = 9 + 8 + 7 +     6 + 5 + 4 +     3 + 2 + 1$/;"	kind:variable	line:49
+b	../python/aula_01/controle_fluxo.py	/^b = 20$/;"	kind:variable	line:85
+b	../python/aula_01/introducao.py	/^b = 0.5$/;"	kind:variable	line:133
+c	../python/aula_01/controle_fluxo.py	/^c = -10$/;"	kind:variable	line:86
+c	../python/aula_01/introducao.py	/^c = "Legal!"$/;"	kind:variable	line:134
+conjunto	../python/aula_01/estruturas_dados.py	/^conjunto = set()$/;"	kind:variable	line:296
+conjunto	../python/aula_01/estruturas_dados.py	/^conjunto = set([1, 2, 4, 5, 5, 5, 2, 4])$/;"	kind:variable	line:308
+conjunto	../python/aula_01/estruturas_dados.py	/^conjunto = {"mouse", (8, 4, 6)}$/;"	kind:variable	line:304
+conjunto	../python/aula_01/estruturas_dados.py	/^conjunto = {1, 2, 3}$/;"	kind:variable	line:300
+controle_fluxo.py	../python/aula_01/controle_fluxo.py	1;"	kind:file	line:1
+create_list1	../python/aula_01/estruturas_dados.py	/^def create_list1(n):$/;"	kind:function	line:123
+create_list2	../python/aula_01/estruturas_dados.py	/^def create_list2(n):$/;"	kind:function	line:126
+create_list3	../python/aula_01/estruturas_dados.py	/^def create_list3(n):$/;"	kind:function	line:132
+dicionario	../python/aula_01/estruturas_dados.py	/^dicionario = {'c': -1, 'o': 10}$/;"	kind:variable	line:223
+dicionario	../python/aula_01/estruturas_dados.py	/^dicionario = {'nome':'Raphael', 'idade': 27}$/;"	kind:variable	line:235
+dicionario	../python/aula_01/estruturas_dados.py	/^dicionario = {'nome':'Raphael', 'idade': 27}$/;"	kind:variable	line:255
+dicionario	../python/aula_01/estruturas_dados.py	/^dicionario = {}$/;"	kind:variable	line:220
+dicionario	../python/aula_01/estruturas_dados.py	/^dicionario ={'c': -1, ("c", "c"): 10}$/;"	kind:variable	line:227
+estruturas_dados.py	../python/aula_01/estruturas_dados.py	1;"	kind:file	line:1
+for	../python/aula_01/introducao.py	/^for = 1$/;"	kind:variable	line:21
+i	../python/aula_01/controle_fluxo.py	/^i = 1$/;"	kind:variable	line:169
+introducao.py	../python/aula_01/introducao.py	1;"	kind:file	line:1
+lista	../python/aula_01/estruturas_dados.py	/^lista = ["mouse", [8, 4, 6], ['a']]$/;"	kind:variable	line:27
+lista	../python/aula_01/estruturas_dados.py	/^lista = [1, "Hello", 3.4]$/;"	kind:variable	line:24
+lista	../python/aula_01/estruturas_dados.py	/^lista = [1, 2, 3]$/;"	kind:variable	line:21
+lista	../python/aula_01/estruturas_dados.py	/^lista = []$/;"	kind:variable	line:18
+math	../python/aula_01/controle_fluxo.py	/^import math$/;"	kind:namespace	line:196
+n	../python/aula_01/controle_fluxo.py	/^n = 10$/;"	kind:variable	line:139
+n	../python/aula_01/controle_fluxo.py	/^n = 10$/;"	kind:variable	line:168
+n	../python/aula_01/controle_fluxo.py	/^n = input()$/;"	kind:variable	line:198
+num	../python/aula_01/controle_fluxo.py	/^num = 3$/;"	kind:variable	line:24
+num	../python/aula_01/controle_fluxo.py	/^num = 3.4$/;"	kind:variable	line:52
+quadrados	../python/aula_01/estruturas_dados.py	/^quadrados = {x:x*x for x in range(10)}$/;"	kind:variable	line:277
+quadrados_impares	../python/aula_01/estruturas_dados.py	/^quadrados_impares = {x: x*x for x in range(10) if x%2 == 1}$/;"	kind:variable	line:284
+s	../python/aula_01/estruturas_dados.py	/^s = ["p", "y", "t", "h", "o", "n"]$/;"	kind:variable	line:107
+s	../python/aula_01/estruturas_dados.py	/^s = ["p", "y", "t", "h", "o", "n"]$/;"	kind:variable	line:148
+s	../python/aula_01/estruturas_dados.py	/^s = ["p", "y", "t", "h", "o", "n"]$/;"	kind:variable	line:170
+s	../python/aula_01/estruturas_dados.py	/^s = ["p", "y", "t", "h", "o", "n"]$/;"	kind:variable	line:39
+s	../python/aula_01/estruturas_dados.py	/^s = ["p", "y", "t", "h", "o", "n"]$/;"	kind:variable	line:75
+soma	../python/aula_01/controle_fluxo.py	/^soma = 0$/;"	kind:variable	line:138
+soma	../python/aula_01/controle_fluxo.py	/^soma = 0$/;"	kind:variable	line:167
+temp	../python/aula_01/controle_fluxo.py	/^    temp = F1 + F2$/;"	kind:variable	line:202
+tupla	../python/aula_01/estruturas_dados.py	/^tupla = ("mouse", (8, 4, 6), ['a'])$/;"	kind:variable	line:207
+tupla	../python/aula_01/estruturas_dados.py	/^tupla = ()$/;"	kind:variable	line:198
+tupla	../python/aula_01/estruturas_dados.py	/^tupla = (1, "Ola", 3.4)$/;"	kind:variable	line:204
+tupla	../python/aula_01/estruturas_dados.py	/^tupla = (1, 2, 3)$/;"	kind:variable	line:201
+valor	../python/aula_01/introducao.py	/^valor  = 5.0 + 4j$/;"	kind:variable	line:169
+valor	../python/aula_01/introducao.py	/^valor = 5$/;"	kind:variable	line:160
+valor	../python/aula_01/introducao.py	/^valor = 5$/;"	kind:variable	line:178
+valor	../python/aula_01/introducao.py	/^valor = 5.0$/;"	kind:variable	line:166
+valor	../python/aula_01/introducao.py	/^valor = 5555555555555555555555555555555555555555555$/;"	kind:variable	line:163
+valor	../python/aula_01/introducao.py	/^valor = 5555555555555555555555555555555555555555555555555555555555555$/;"	kind:variable	line:185
