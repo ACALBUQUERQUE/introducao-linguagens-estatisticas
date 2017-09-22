@@ -65,3 +65,12 @@ valor	../python/aula_01/introducao.py	/^valor = 5$/;"	kind:variable	line:178
 valor	../python/aula_01/introducao.py	/^valor = 5.0$/;"	kind:variable	line:166
 valor	../python/aula_01/introducao.py	/^valor = 5555555555555555555555555555555555555555555$/;"	kind:variable	line:163
 valor	../python/aula_01/introducao.py	/^valor = 5555555555555555555555555555555555555555555555555555555555555$/;"	kind:variable	line:185
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+RMSLE	../python/aula_02/meuModulo.py	/^def RMSLE(y_true, y_pred):$/;"	kind:function	line:2
+m	../python/aula_02/meuModulo.py	/^import math as m$/;"	kind:namespace	line:1
+meuModulo.py	../python/aula_02/meuModulo.py	1;"	kind:file	line:1
